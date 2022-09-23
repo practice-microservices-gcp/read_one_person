@@ -1,6 +1,6 @@
 dnspython==1.16.0
 mysql-connector-python==8.0.19
-protobuf==3.6.1
+protobuf==3.18.3
 six==1.14.0
 git+https://github.com/practice-microservices-gcp/lib-entity.git@step-0
 git+https://github.com/practice-microservices-gcp/lib-response.git@step-0
